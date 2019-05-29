@@ -9,7 +9,7 @@
 
 ## Project dependencies
 
-- This project was developed with `React js` as a base framework.[Create React App](https://github.com/facebook/create-react-app)
+- This project was developed with [React js](https://github.com/facebook/create-react-app) as a base framework.
 - React Color picker - [npm install rc-color-picker](https://www.npmjs.com/package/rc-color-picker)
 - Live Sass Compiler - VS Code extention to compile SASS
 
